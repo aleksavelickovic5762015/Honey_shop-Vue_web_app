@@ -1,5 +1,7 @@
 # Honey_shop-Vue_web_app
 
+Vue web app developed at course User interface programming
+
 ## Project setup
 ```
 npm install
