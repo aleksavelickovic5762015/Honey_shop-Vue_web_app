@@ -1,4 +1,4 @@
-# pcelarska_kuca
+# Honey_shop-Vue_web_app
 
 ## Project setup
 ```
